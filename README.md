@@ -1,6 +1,5 @@
-# 🧬 JavaScript: The Definitive Guide (7th Edition)
+# 🧬 JavaScript: The Definitive Guide (7th Edition) by David Flanagan
 
-## Complete Chapter-by-Chapter Implementation Guide by David Flanagan
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ECMAScript](https://img.shields.io/badge/Standard-ECMAScript_2022-007ACC.svg?style=for-the-badge)](https://ecma-international.org/)
